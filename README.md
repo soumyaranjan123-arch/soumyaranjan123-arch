@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumyaranjan Mandal.
 - 👀 I’m interested in ... getting a job.
-- 🌱 I’m currently learning ... Python.
+- 🌱 I’m currently learning ... JavaScript.
 - 💞️ I’m looking to collaborate on ... projects.
 - 📫 How to reach me ... just remember me.
 - 😄 Pronouns: ... he/him.
